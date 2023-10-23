@@ -1,0 +1,28 @@
+# Automação do Navegador Opera com PyAutoGUI
+
+Este é um script Python que utiliza a biblioteca PyAutoGUI para automatizar algumas tarefas no navegador Opera. O script realiza as seguintes ações:
+
+1. Abre o navegador Opera.
+2. Aguarda o carregamento da página.
+3. Executa um atalho de teclado "Ctrl + E" (atalho para selecionar a barra de pesquisa).
+4. Insere o URL especificado.
+5. Entra na página.
+
+## Pré-requisitos
+
+Antes de executar este script, certifique-se de ter instalado o seguinte:
+
+- **Python**: Certifique-se de que você tenha o Python instalado em seu sistema.
+
+- **PyAutoGUI**: Instale a biblioteca PyAutoGUI usando o comando `pip install pyautogui`.
+
+## Como Usar
+
+1. Clone ou baixe este repositório para o seu sistema.
+
+2. Abra um terminal ou prompt de comando e navegue até o diretório onde o script está localizado.
+
+3. Execute o script com o seguinte comando:
+
+   ```shell
+   python nome_do_script.py
