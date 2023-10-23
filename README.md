@@ -1,2 +1,2 @@
 # Automations
-Todas as minhas automações
+automations projects
